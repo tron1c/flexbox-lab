@@ -96,7 +96,8 @@ input {
   padding: 32px 72px 0;
   background-color: white;
   display: flex;
-  gap: 10px;
+  justify-content: space-between; 
+  align-items: center;
 }
 
 #subnav button {
